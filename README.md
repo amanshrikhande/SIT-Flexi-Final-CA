@@ -49,8 +49,7 @@ It includes **user authentication**, **JWT-based session management**, and a **r
 | Backend | Node.js + Express.js |
 | Database | MongoDB Atlas |
 | Authentication | JWT (JSON Web Tokens) + bcrypt |
-| Styling | CSS / React components |
-| Hosting (optional) | Render / Vercel / Netlify (frontend) + Render / Railway (backend) |
+| Styling | Tailwind CSS |
 
 ---
 
